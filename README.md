@@ -1,7 +1,7 @@
 # check-port-app
 it is a app which can to check port is available with spring boot.
 
-it runs on your server need JDK 1.8+ 
+It requires JDK1.8 or higher
 
 just download it
 
