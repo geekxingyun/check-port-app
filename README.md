@@ -5,7 +5,7 @@ it run on your server need JDK 1.8+
 
 just download it
 
-[https://github.com/geekxingyun/check-port-app/blob/master/release/spring-boot-with-check-port-sample-0.0.1-SNAPSHOT.jar](https://github.com/geekxingyun/check-port-app/blob/master/release/spring-boot-with-check-port-sample-0.0.1-SNAPSHOT.jar)
+[https://github.com/geekxingyun/check-port-app/raw/master/release/spring-boot-with-check-port-sample-0.0.1-SNAPSHOT.jar](https://github.com/geekxingyun/check-port-app/raw/master/release/spring-boot-with-check-port-sample-0.0.1-SNAPSHOT.jar)
 
 then run it on your server
 
